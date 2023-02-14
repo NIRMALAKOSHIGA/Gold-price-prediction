@@ -1,3 +1,3 @@
- Gold-price-prediction :
- 
- 
+ **Gold-price-prediction**
+
+_Supervised Machine learning project (Regression)_
